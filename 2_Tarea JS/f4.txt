@@ -1,0 +1,10 @@
+# El Microcontrolador es un circuito
+integrado que es el componente principal
+de una aplicación embebida. Es como una
+pequeña computadora que incluye sistemas
+para controlar elementos de entrada/salida.
+También incluye a un procesador y por supuesto
+memoria que puede guardar el programa y sus
+variables (flash y RAM). Funciona como una mini PC.
+Su función es la de automatizar procesos y procesar
+información.

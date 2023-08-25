@@ -1,0 +1,5 @@
+# ALU. También conocida como Unidad Aritmetica y Lógica.
+Está unidad esta compuesta por los circuitos electrónicos
+digitales del tipo combinatorios
+(compuertas, sumadores, multiplicadores),
+cuya principal función es el realizar operaciones. 
